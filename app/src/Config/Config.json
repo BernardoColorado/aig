@@ -1,0 +1,24 @@
+{
+    
+    "database":{
+
+        "aig":{
+            
+            "database_type":"mysql",
+            "database_name":"AIG",
+            "server":"localhost",
+            "username":"root",
+            "password":"feH@haG5822"
+            
+        }
+
+    },
+    "app":{
+
+        "name":"aig",
+        "url":"http://localhost/aig/public",
+        "domain":"http://www.aig-automation.com"
+
+    }
+
+}
