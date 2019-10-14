@@ -89,10 +89,10 @@ db.medida.insert([
   { "_id" : 3, "medida" : "indicadores" },
   { "_id" : 4, "medida" : "presión"},
   { "_id" : 5, "medida" : "vibración" },
-  { "_id" : 5, "medida" : "temperatura" },
-  { "_id" : 5, "medida" : "nivel" },
-  { "_id" : 5, "medida" : "peso" },
-  { "_id" : 5, "medida" : "caudal" }
+  { "_id" : 6, "medida" : "temperatura" },
+  { "_id" : 7, "medida" : "nivel" },
+  { "_id" : 8, "medida" : "peso" },
+  { "_id" : 9, "medida" : "caudal" }
 ]);
 
 
